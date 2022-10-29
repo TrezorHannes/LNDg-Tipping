@@ -26,3 +26,4 @@ NguTechnologies: Thank you, on behalf of the plebnet ⚡ community. 🧡🧡🧡
 
 
 [^1]: In case you wonder if this is legit, ping [me](https://amboss.space/node/037f66e84e38fc2787d578599dfe1fcb7b71f9de4fb1e453c5ab85c05f5ce8c2e3) to verify.
+`GPG Key fingerprint = D921 FD3A 63A3 CBDB 6825  6BE8 E4FD 4678 71FA D97E`
