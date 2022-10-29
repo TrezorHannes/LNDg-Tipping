@@ -1,3 +1,4 @@
+
 ## LNDg - Appreciation & Donation Site
 <img src="https://user-images.githubusercontent.com/35168804/198840920-76d0d634-3863-4fc6-a0a5-d8278a2acdb1.png" height="300">
 
@@ -15,10 +16,13 @@ This story is about showing appreciation to the fearless and tireless who contin
 
 ### Three options to keep it simple, chose any of the below you prefer
 
- - Give them a [follow on Twitter](https://twitter.com/cryptosharks131) and say thank you. Today.
+ - Give them a [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/cryptosharks131.svg?style=social&label=Follow%20%40Crypto%20Sharks)](https://twitter.com/cryptosharks131) and say thank you. Today.
  - Star ⭐ [the repository on Github](https://github.com/cryptosharks131/lndg). It's like mana for a developer
- - Got a few Satoshis to spare? Either head over [to our donation page](https://pwbtc.duckdns.org/tipjar/7), we have handed over the LNBits-wallet to @NguTechnologies, so s/he pull from there anytime, or with his / her [LNtxbot](https://lntxbot.com/@ngutechnologies).
+ - Got a few Satoshis to spare? Either head over [to our donation page](https://pwbtc.duckdns.org/tipjar/7)[^1], we have handed over the LNBits-wallet to @NguTechnologies, so s/he pull from there anytime, or with his / her [LNtxbot](https://lntxbot.com/@ngutechnologies).
 
 And the fourth one is a bonus: Share this page whenever you see anyone having a better node-running day because of **LNDg**.
 
 NguTechnologies: Thank you, on behalf of the plebnet ⚡ community. 🧡🧡🧡
+
+
+[^1]: In case you wonder if this is legit, ping [me](https://amboss.space/node/037f66e84e38fc2787d578599dfe1fcb7b71f9de4fb1e453c5ab85c05f5ce8c2e3) to verify.
