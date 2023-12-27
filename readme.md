@@ -18,7 +18,7 @@ This story is about showing appreciation to the fearless and tireless who contin
 
  - Give them a [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/cryptosharks131.svg?style=social&label=Follow%20%40Crypto%20Sharks)](https://twitter.com/cryptosharks131) and say thank you. Today.
  - Star ⭐ [the repository on Github](https://github.com/cryptosharks131/lndg). It's like mana for a developer
- - [Update] We'll add a lnurl for @NguTechnologies, since LNTXBOT is gone and NGU cashed out their LNBits wallet 
+ - Tip a few sats to @NguTechnologies directly via ngutechnologies@ln.tips
 
 And the fourth one is a bonus: Share this page whenever you see anyone having a better node-running day because of **LNDg**.
 
